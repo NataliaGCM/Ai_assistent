@@ -4,8 +4,8 @@
 
 ## Скриншоты моего приложения
 
-[Скриншот 1]([https://example.com/image.png)
-](https://github.com/NataliaGCM/Ai_assistent/blob/main/Снимок%20экрана%202025-02-27%20144625.png?raw=true)
+[Скриншот 1] [image](https://github.com/user-attachments/assets/7200e227-bf72-4adc-b4b8-4321d1743dcd)
+
 
 ## Описание проекта
 
