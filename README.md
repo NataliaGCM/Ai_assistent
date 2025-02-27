@@ -4,7 +4,8 @@
 
 ## Скриншоты моего приложения
 
-[Скриншот 1] [image](https://github.com/user-attachments/assets/7200e227-bf72-4adc-b4b8-4321d1743dcd)
+[Скриншот 1] [https://github.com/user-attachments/assets/771db501-9d4f-4a81-93aa-77c558a418f5)
+]
 
 
 ## Описание проекта
